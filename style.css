@@ -82,7 +82,7 @@ button:hover {
 /* Róża w rogu */
 .rose {
    position: fixed !important; 
-    bottom: 470px;
+    bottom: 600px;
     right: 30px;
     font-size: 25px;
     cursor: pointer;
